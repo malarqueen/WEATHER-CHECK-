@@ -1,0 +1,7 @@
+Enter the Name of Any City >>  New Delhi
+Searching......
+
+New Delhi, Delhi
+Friday, 4:00 pm
+Haze
+33°C
